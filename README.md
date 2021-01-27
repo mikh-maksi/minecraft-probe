@@ -41,7 +41,7 @@
 <img src = "img/step9.jpg">  
 
 6.3. Вставляем ссылка на код:  
-https://makecode.com/_3CEahD7e261A  
+https://makecode.com/_YHHH0fAvqDVj
 
 
 <img src = "img/step10.jpg">  
