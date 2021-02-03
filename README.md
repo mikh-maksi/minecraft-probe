@@ -44,7 +44,7 @@
 https://makecode.com/_YHHH0fAvqDVj
 
 
-<img src = "img/step10.jpg">  
+<img src = "img/AgentStart.jpg">  
 6.4. Выбираем блок agent Management
 
 <img src = "img/step11.jpg">  
